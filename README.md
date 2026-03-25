@@ -1,4 +1,3 @@
-# PicoRV32-fromYosysHQ
 # 1. Tổng quan PicoSoC và vai trò của từng khối
 
 PicoSoC là một thiết kế SoC mẫu xây quanh lõi PicoRV32. PicoSoC cho thấy
