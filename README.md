@@ -5,8 +5,7 @@ PicoSoC là một thiết kế SoC mẫu xây quanh lõi PicoRV32. PicoSoC cho t
 cách kết nối core CPU PicoRV32 với bộ nhớ, flash, UART và các ngoại vi
 khác để thành một hệ thống có thể nạp lên FPGA và chạy firmware thực tế.
 
-<img src="/mnt/data/PicoSoC_PicoRV32_media/media/image1.png"
-style="width:5.08867in;height:3.46802in" />
+![PicoSoC](image.png)
 
 <table>
 <colgroup>
